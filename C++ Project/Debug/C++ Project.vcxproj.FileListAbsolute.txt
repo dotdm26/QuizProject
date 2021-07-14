@@ -1,0 +1,4 @@
+C:\Users\Computer\source\repos\C++ Project\Debug\C++ Project.exe
+C:\Users\Computer\source\repos\C++ Project\Debug\C++ Project.pdb
+C:\Users\Bubu\Documents\source\repos\C++ Project\Debug\C++ Project.exe
+C:\Users\Bubu\Documents\source\repos\C++ Project\Debug\C++ Project.pdb
